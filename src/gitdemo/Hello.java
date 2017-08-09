@@ -8,6 +8,12 @@ public class Hello {
 		
 		System.out.println("Git is runnning !");
 		
+		System.out.println("Git is remoting !");
+		
+		
+		
+		
+		
 		
 		
 
